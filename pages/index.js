@@ -1,6 +1,6 @@
 function Home() {
-    return <h1>JU EU TE AMO!!!</h1>
-    return <h2>Ass: Maycon </h2>
+    return <div>JU EU TE AMO!!!</div>
+    return <div>Ass: Maycon </div>
 
 }
 
