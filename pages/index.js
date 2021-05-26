@@ -7,7 +7,6 @@ function Home() {
             <h2>Ass: Maycon Cesar de Oliveira</h2>
         </div>)
     
-
 }
 
 export default Home
