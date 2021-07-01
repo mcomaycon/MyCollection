@@ -1,11 +1,24 @@
 function Home() {
+    
+
     return (
         <div>
             <h1>SEJA BEM VINDO!!!!</h1>
-            <h2>BORA TOMAR CERVEJA?</h2>
-            <h2>Ass: Maycon Cesar de Oliveira</h2>
-        </div>)
-    
+            <Busca />
+        </div>
+        
+    )
+}
+
+async function Busca() {
+    const bd = require("./bd")
+    const Clientes = await bd.BucaCli();
+
+    return (
+        <div>
+            <Busca />
+        </div>
+        )
 }
 
 export default Home

@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\MyCollection",
-    "\\pages"
+    "\\pages",
+    "\\pages\\api"
   ],
-  "SelectedNode": "\\pages\\index.js",
+  "SelectedNode": "\\pages\\api\\RecuperaToken.js",
   "PreviewInSolutionExplorer": false
 }
