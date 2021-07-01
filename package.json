@@ -16,6 +16,13 @@
   "bugs": {
     "url": "https://github.com/mcomaycon/MyCollection/issues"
   },
+  "node": {
+    "child_process": "empty",
+    "fs": "empty",
+    "crypto": "empty",
+    "net": "empty",
+    "tls": "empty"
+  },
   "browser": {
     "fs": false,
     "path": false,
